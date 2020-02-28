@@ -2,9 +2,9 @@
 
 ### 效果显示
 
-![Image](https://www.mdeditor.com/images/logos/markdown.png)
+![Image](https://github.com/hunimeizi/LineChartDemo/blob/master/image/sinale.png)
 
-![Image](https://www.mdeditor.com/images/logos/markdown.png)
+![Image](https://github.com/hunimeizi/LineChartDemo/blob/master/image/double.png)
 
 #### 向原作者An An致敬。
 

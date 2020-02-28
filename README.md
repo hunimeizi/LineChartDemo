@@ -1,9 +1,11 @@
 # LineChart 折线图
 
+### 效果显示
 
-![markdown](https://www.mdeditor.com/images/logos/markdown.png "markdown")
+![Image](https://www.mdeditor.com/images/logos/markdown.png)
 
+![Image](https://www.mdeditor.com/images/logos/markdown.png)
 
-#### 原作者An An致敬。
+#### 向原作者An An致敬。
 
 [AAChartCore](https://github.com/AAChartModel/AAChartCore)
